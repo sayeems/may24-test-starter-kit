@@ -4,7 +4,7 @@
   	<img height="120" alt="Pantheon.io logo featuring a fist capturing lighting. Pantheon™, The Platform for Extraordinary Websites." src="https://raw.githubusercontent.com/pantheon-systems/decoupled-kit-js/canary/web/static/img/B_Fist-Tagline.png">
 	</picture>
 	<a href="https://decoupledkit.pantheon.io/docs#next-wordpress-starter">
-		<h1 style="margin:auto;" align="center">Next WordPress Starter</h1>
+		<h1 style="margin:auto;" align="center">Next WordPress Starter test</h1>
 	</a>
 </div>
 
